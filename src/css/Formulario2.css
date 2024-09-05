@@ -1,0 +1,120 @@
+.form-container {
+    max-width: 100%;
+    margin: 0 auto;
+    padding: 100px;
+    background-color: #f4f4f4;
+    border-radius: 8px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    }
+
+    
+    .header {
+      text-align: center;
+      margin-bottom: 20px;
+    }
+    
+    .istec-logo {
+      width: 150px;
+    }
+    
+    .commitments {
+      margin-bottom: 30px;
+      line-height: 2;
+    }
+    
+    .commitments ol {
+      margin: 0;
+      padding-left: 20px;
+    }
+    
+    .form-row {
+      margin-bottom: 15px;
+    }
+    
+    .form-row label {
+      display: block;
+      font-weight: bold;
+    }
+    
+    .form-row input {
+      width: 50%;
+      padding: 10px;
+      box-sizing: border-box;
+    }
+    
+    .form-row button {
+      padding: 10px 15px;
+      background-color: #4CAF50;
+      color: white;
+      border: none;
+      cursor: pointer;
+      font-size: 16px;
+    }
+    
+    .form-row button:hover {
+      background-color: #45a049;
+    }
+  
+    ol {
+      text-align: justify
+    }
+  
+   .date{
+    text-align: right;
+    
+  }
+  
+  .button-group button{
+    padding: 20px 20px;
+    background-color: #408dd6af;
+    color: rgb(17, 17, 17);
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+  }
+  
+  .button-group {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 20px;
+  }
+  
+  .button-group button:hover {
+    background-color: #a5d6a7;
+  }
+  
+  #root {
+    max-width: 1280px;
+    margin: 0 auto;
+    padding: 2rem;
+    text-align: justify;
+  }
+  
+  .firma{
+    padding: 50px;
+  }
+  
+  label {
+    margin-bottom: 5px;
+    font-weight: bold;
+    padding: 5px;
+  }
+  
+  .logo {
+    height: 6em;
+    padding: 1.5em;
+    will-change: filter;
+    transition: filter 300ms;
+  }
+  .logo:hover {
+    filter: drop-shadow(0 0 2em #64ffb7aa);
+  }
+  .logo.react:hover {
+    filter: drop-shadow(0 0 2em #079163aa);
+  }
+  
+  .parrafo{
+    text-align: center;
+  }
+  
